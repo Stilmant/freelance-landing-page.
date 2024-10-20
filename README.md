@@ -15,7 +15,6 @@ You can visit the landing page here: [https://freelance.stilmant.lu](https://fre
 
 ## Contact Information
 - **Email**: [sit@stilmant.lu](mailto:sit@stilmant.lu)
-- **LinkedIn**: [linkedin.com/in/michaelstilmant](#)
+- **LinkedIn**: [https://www.linkedin.com/in/michael-stilmant/](https://www.linkedin.com/in/michael-stilmant/)
 
-## How to Edit
-If you need to make updates or adjustments, simply edit the `index.html` file in this repository. The changes will automatically reflect on the live page.
+
